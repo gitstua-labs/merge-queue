@@ -16,3 +16,10 @@ jobs:
       run: |
         # Pseudo code for merge action
         # merge_group_function()
+    
+    - name: Delay for 600 seconds
+      run: sleep 600
+
+    
+    
+    
